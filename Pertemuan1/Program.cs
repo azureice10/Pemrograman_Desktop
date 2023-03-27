@@ -108,7 +108,6 @@ do
 Console.WriteLine();*/
 
 // deklarasi function
-using System.Reflection.Metadata.Ecma335;
 
 static void myFunc()
 {
